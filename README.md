@@ -9,7 +9,9 @@ A simple API that returns the amount of bike thefts in a given city.
 - Select **IIS Express**
 - Start it by pressing Ctrl + F5, or Debug/Start
 - The main swagger page should open, select an endpoint and try it out :)
-> The solutions is configured to run with SSL, so please allow the certificates to be installed in your machine
+> The solutions is configured to run with SSL, so please allow the certificates to be installed in your machine.
+
+> Visual Studio 2022, ASP.Net Core 6.0.
 
 ### Endpoints
 There are two endpoints available:
