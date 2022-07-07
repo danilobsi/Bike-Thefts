@@ -16,7 +16,7 @@ namespace Swapfiets.BikeThefts.Controllers
         }
 
         /// <summary>
-        /// Retrieve the count of bike thefts in the provided city.
+        /// Retrieves the count of bike thefts in the provided city.
         /// </summary>
         /// <param name="parameters">
         /// - City: The city to find the bike theft count
@@ -42,7 +42,7 @@ namespace Swapfiets.BikeThefts.Controllers
         }
 
         /// <summary>
-        /// Retrieve the information for the current cities in operation and the candidate cities, with their bike theft's count.
+        /// Retrieves the information for the current cities in operation and the candidate cities, with their bike theft's count.
         /// </summary>
         /// <returns>Cities in operation and candidate cities</returns>
         [HttpGet("CurrentAndCandidateCities")]
