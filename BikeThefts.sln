@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swapfiets.BikeThefts", "Swapfiets.BikeThefts\Swapfiets.BikeThefts.csproj", "{042C810D-46FA-41D1-99EA-84F0D4FA5200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeThefts", "BikeThefts\BikeThefts.csproj", "{042C810D-46FA-41D1-99EA-84F0D4FA5200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapfiets.BikeThefts.Tests", "Swapfiets.BikeThefts.Tests\Swapfiets.BikeThefts.Tests.csproj", "{D2FE6761-E0DF-4505-9464-4474F7A2022F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeThefts.Tests", "BikeThefts.Tests\BikeThefts.Tests.csproj", "{D2FE6761-E0DF-4505-9464-4474F7A2022F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
