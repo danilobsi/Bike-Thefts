@@ -5,7 +5,7 @@ A simple API that returns the amount of bike thefts in a given city.
 
 ### Running the application with Visual Studio
 - Clone the repository to your machine
-- Open the solution file located in the root of the repository called **Swapfiets.BikeThefts.sln**
+- Open the solution file located in the root of the repository called **BikeThefts.sln**
 - Select **IIS Express**
 - Start it by pressing Ctrl + F5, or Debug/Start
 - The main swagger page should open, select an endpoint and try it out :)
